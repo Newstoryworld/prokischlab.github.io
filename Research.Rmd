@@ -11,4 +11,4 @@ Say more about your CV here.
 
 
 
-#<a href="CV.pdf#" class="download" title="Download CV as PDF">Download CV</a>		
+# <a href="CV.pdf#" class="download" title="Download CV as PDF">Download CV</a>		
