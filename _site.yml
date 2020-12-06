@@ -20,12 +20,12 @@ navbar:
       icon: fa-rss
       href: https://www.helmholtz-muenchen.de/ing/das-institut/mitarbeiter/index.html
   right:
-    - text: "Contact me"
+    - text: "Contact"
       icon: fa-envelope-o
-      href: mailto:YOUREMAIL                    # CHANGE HERE 
+      href: mailto:Prokisch@helmholtz-muenchen.de                   # CHANGE HERE 
     - text: "GitHub"
       icon: fa-github
-      href: https://github.com/YOURGITHUB       # CHANGE HERE 
+      href: https://github.com/Newstoryworld       # CHANGE HERE 
 output:
   html_document:
     theme: cosmo
