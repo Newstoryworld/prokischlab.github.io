@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my website!"
+title: "Research group Genetics of Mitochondrial Disorders"
 ---
 
 You're up and running!

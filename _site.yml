@@ -7,12 +7,15 @@ navbar:
     - text: "Home"
       icon: fa-home
       href: index.html
-    - text: "About"
+    - text: "Members"
       icon: fa-user 
-      href: about.html
-    - text: "CV"
+      href: Members.html
+    - text: "Research"
       icon: fa-file-pdf-o
-      href: cv.html
+      href: Research.html
+    - text: "Publications"
+      icon: fa-file-pdf-o
+      href: https://www.helmholtz-muenchen.de/ing/publikationen/index.html     
     - text: "Official page"
       icon: fa-rss
       href: https://www.helmholtz-muenchen.de/ing/das-institut/mitarbeiter/index.html
