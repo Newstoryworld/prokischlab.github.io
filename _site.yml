@@ -15,7 +15,7 @@ navbar:
       href: cv.html
     - text: "Official page"
       icon: fa-rss
-      href: https://www.helmholtz-muenchen.de/ing/das-institut/mitarbeiter/index.html  # CHANGE HERE OR DELETE ALL 3 LINES 
+      href: https://www.helmholtz-muenchen.de/ing/das-institut/mitarbeiter/index.html
   right:
     - text: "Contact me"
       icon: fa-envelope-o

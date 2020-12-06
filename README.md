@@ -1,4 +1,4 @@
-# Make your website with R Markdown in minutes
+# Template of Prokischlab web page
 
 This is a template (and tutorial) for creating your website with R Markdown in minutes.
 
