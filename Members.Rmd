@@ -6,46 +6,53 @@ title: "AG Prokisch members"
 
 ### Dr. Holger Prokisch
 AG leader
-
+ 
+ 
 ### Martina Kuhnert
 Assistant to the management team
 
+
 ### Dr. Riccardo Berutti
 Post Doc
+
 
 ### Dr. Rui Ban
 Post Doc
 
 
-<<<<<<< HEAD
-=======
-
->>>>>>> c55e1c97299635183c0165877498d4e149535c47
 ### Robert Kopajtich
 Scientific Assistant
+
 
 ### Mirjana Gusic
 PhD student
 
+
 ### Dr. Sarah Stenton
 PhD student
+
 
 ### Dmitrii Smirnov
 PhD student
 
+
 ### Lea Dewi Schlieben
 PhD student
+
 
 ### Caterina Terrile
 Technical assistant
 
+
 ### Marieta Borzes
 Technical assistant
+
 
 ### Michael Färberböck
 Technical assistant
 
-
+#
+#
 ## Alumni
 
 ### Dr. Laura Kremer
